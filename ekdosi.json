@@ -1,6 +1,6 @@
 {
-  "ekdosi": "1.0.3",
-  "mac": "https://github.com/vaggelispountos-oss/dilosi-timologio-ekdoseis/releases/download/v1.0.3/Dilosi_timologio_1.0.3.dmg",
-  "windows": "https://github.com/vaggelispountos-oss/dilosi-timologio-ekdoseis/releases/download/v1.0.3/Dilosi_timologio_Setup_1.0.3.exe",
-  "simeioseis": "Ενημέρωση με ένα κλικ (λήψη, εγκατάσταση, επανεκκίνηση μόνη της). «Ξέχασα το master password» στην οθόνη ξεκλειδώματος: μηδενισμός με αντίγραφο ασφαλείας, οι πελάτες μένουν. Ο φάκελος δεδομένων φαίνεται στην οθόνη ξεκλειδώματος με κουμπί ανοίγματος."
+  "ekdosi": "1.0.5",
+  "mac": "https://github.com/vaggelispountos-oss/dilosi-timologio-ekdoseis/releases/download/v1.0.5/Dilosi_timologio_1.0.5.dmg",
+  "windows": "https://github.com/vaggelispountos-oss/dilosi-timologio-ekdoseis/releases/download/v1.0.5/Dilosi_timologio_Setup_1.0.5.exe",
+  "simeioseis": "Εισαγωγή Excel στη μορφή του προγράμματος του γραφείου (Κωδικός, Α.Φ.Μ., Επωνυμία/Επώνυμο, Όνομα, Όνομα Πατρός, Είδος, Όνομα χρήστη, Συνθηματικό). Για ατομικές επιχειρήσεις το όνομα γίνεται «Επώνυμο Όνομα». Η ημερομηνία έναρξης ορίζεται μία φορά στην οθόνη εισαγωγής."
 }
