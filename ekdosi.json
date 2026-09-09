@@ -2,5 +2,5 @@
   "ekdosi": "1.0.2",
   "mac": "https://github.com/vaggelispountos-oss/dilosi-timologio-ekdoseis/releases/download/v1.0.2/Dilosi_timologio_1.0.2.dmg",
   "windows": "https://github.com/vaggelispountos-oss/dilosi-timologio-ekdoseis/releases/download/v1.0.2/Dilosi_timologio_Setup_1.0.2.exe",
-  "simeioseis": "Το κουμπί ΕΚΤΕΛΕΣΗ εξηγεί πάνω του γιατί δεν ξεκινά (λείπει η επιβεβαίωση ή δεν υπάρχουν εκκρεμείς πελάτες) και το μήνυμα «Δεν ξεκίνησε» μένει ορατό κάτω από τα κουμπιά."
+  "simeioseis": "Εκκίνηση Windows: αν η εφαρμογή τρέχει ήδη, το διπλό κλικ ανοίγει τον browser σε αυτήν (τέλος ο Task Manager). Το κουμπί ΕΚΤΕΛΕΣΗ εξηγεί πάνω του γιατί δεν ξεκινά και το μήνυμα «Δεν ξεκίνησε» μένει ορατό κάτω από τα κουμπιά."
 }
