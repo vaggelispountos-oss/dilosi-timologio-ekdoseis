@@ -1,6 +1,6 @@
 {
-  "ekdosi": "1.0.9",
+  "ekdosi": "1.1.1",
   "mac": "https://github.com/vaggelispountos-oss/dilosi-timologio-ekdoseis/releases/download/v1.0.9/Dilosi_timologio_1.0.9.dmg",
-  "windows": "https://github.com/vaggelispountos-oss/dilosi-timologio-ekdoseis/releases/download/v1.0.9/Dilosi_timologio_Setup_1.0.9.exe",
-  "simeioseis": "Δύο διορθώσεις: (1) Πελάτης που έχει ήδη δήλωση αλλά δεν διαβάστηκαν οι κατηγορίες της ΔΕΝ βγαίνει πια «παραλείφθηκε» — έφευγε σιωπηλά από τους εκκρεμείς. (2) Νέο κόκκινο πλαίσιο στην καρτέλα Πελάτες για όσους δεν έχουν ημερομηνία έναρξης, με κουμπί που τη βάζει σε όλους μαζί — χωρίς αυτήν καμία υποβολή δεν γίνεται."
+  "windows": "https://github.com/vaggelispountos-oss/dilosi-timologio-ekdoseis/releases/download/v1.1.1/Dilosi_timologio_Setup_1.1.1.exe",
+  "simeioseis": "Διόρθωση για πελάτες ΧΩΡΙΣ καμία δήλωση timologio: απέτυχαν όλοι με «Δεν διαβάστηκε η λίστα δηλώσεων της ΑΑΔΕ μέσα σε 20 δευτ.». Η ΑΑΔΕ γράφει «Δεν βρέθηκαν υποβληθείσες δηλώσεις», ενώ το πρόγραμμα περίμενε τη λέξη «δηλώσεις» αμέσως μετά το «βρέθηκαν» — η ενδιάμεση λέξη «υποβληθείσες» το μπέρδευε. Όσοι είχαν ήδη δήλωση δούλευαν κανονικά, γι' αυτό δεν είχε φανεί. ΠΡΟΣΟΧΗ για macOS: η 1.1.1 έχει βγει μόνο για Windows· ο σύνδεσμος Mac δείχνει ακόμη στην 1.0.9." 
 }
